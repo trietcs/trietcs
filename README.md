@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trietcs
-- 👀 I’m interested in AI, Machine Learning, Deep Learning, Data Science
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Full-stack web developer
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node, React, MongoDB and more!
 
 
 <!---
